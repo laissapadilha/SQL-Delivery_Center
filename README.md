@@ -8,7 +8,7 @@ A plataforma Delivery Center atuou no Brasil até Novembro de 2021, intregrando 
 
 Por meio da análise exploratória dos dados operacionais da plataforma Delivery Center, buscou-se avaliar a qualidade das entregas realizadas, mapear a distribuição das distâncias percorridas e sua relação com os modais utilizados (bike e moto), além de compreender a distribuição geográfica das operações e identificar possíveis inconsistências nos registros de pedidos, entregas e pagamentos. A análise também se propôs a responder questões estratégicas de negócio, como a definição de critérios para bonificação de entregadores e o cálculo do valor de bônus a ser distribuído entre os colaboradores, com base no lucro gerado no período analisado.
 
-Todas as consultas realizadas podem ser consultadas [aqui](https://github.com/laissapadilha/SQL-Evasao_de_Universitarios/blob/main/StudentsDropout.sql).
+Todas as consultas realizadas podem ser consultadas [aqui](https://github.com/laissapadilha/SQL-Delivery_Center/blob/884056060182d5a8358b7fa089f6263a5d69f533/DeliveryCenter.sql).
 
 ## Descrição das Tabelas
 
